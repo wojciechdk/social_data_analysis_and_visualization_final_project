@@ -1,0 +1,391 @@
+propellant	district	2006	2007	2008	2009	2010	2011	2012	2013	2014	2015	2016	2017	2018	2019	2020
+I alt	Copenhagen total	91706	96278	99613	100762	101701	103066	104343	105984	109245	113209	117667	122712	126441	129545	132191
+I alt	District - Indre By	9271	9787	9990	9990	10084	10132	10299	10425	10707	11009	11530	11791	11775	11986	12136
+I alt	District - Østerbro	13001	13548	14042	14230	14295	14349	14546	14639	14951	15353	15912	16565	17050	17173	17347
+I alt	District - Nørrebro	9549	9919	10148	9868	9724	9612	9555	9603	9928	10447	10877	11498	12131	12292	12471
+I alt	District - Vesterbro/Kongens Enghave	7097	7824	8279	8764	8976	9288	9297	9374	9834	10206	10641	11318	12013	12598	13077
+I alt	District - Valby	9397	9772	10045	10184	10371	10556	10726	10929	11314	11737	12033	12608	13091	13564	13902
+I alt	District - Vanløse	8585	8842	8995	9030	9075	9206	9316	9465	9606	9945	10298	10513	10634	10793	10848
+I alt	District - Brønshøj-Husum	8941	9241	9382	9503	9491	9672	9851	10036	10252	10520	10908	11282	11454	11675	11913
+I alt	District - Bispebjerg	7623	7906	8285	8282	8430	8528	8663	8788	8972	9273	9558	10037	10279	10633	10793
+I alt	District - Amager Øst	8937	9316	9617	9737	9824	9937	9927	10118	10527	10972	11354	11936	12346	12683	12885
+I alt	District - Amager Vest	9121	9985	10692	11016	11307	11663	12014	12465	13003	13566	14414	15019	15517	16027	16679
+I alt	District - Unlocated	184	138	138	158	124	123	149	142	151	181	142	145	151	121	140
+I alt	Polling area - 1. Østerbro	2566	2727	2800	2865	2862	2872	2871	2859	2924	3031	3098	3185	3143	3185	3200
+I alt	Polling area - 1. Øst	1193	1285	1429	1484	1519	1535	1597	1636	1688	1721	1889	2237	2411	2434	2494
+I alt	Polling area - 1. Nord	1630	1700	1716	1743	1755	1734	1749	1768	1830	1907	1903	2005	2034	2058	2176
+I alt	Polling area - 1. Syd	2729	2843	2967	2961	3007	3002	3066	3021	3016	3103	3149	3161	3243	3267	3230
+I alt	Polling area - 1. Vest	2565	2623	2687	2706	2719	2747	2753	2814	2911	2970	3078	3117	3256	3273	3270
+I alt	Polling area - 1. Nordvest	2318	2370	2443	2471	2433	2459	2510	2541	2582	2621	2795	2860	2963	2956	2977
+I alt	Polling area - 2. Sundbyvester	2498	2627	2683	2716	2752	2763	2756	2842	2904	3002	3111	3183	3199	3261	3335
+I alt	Polling area - 2. Nord	2463	2535	2662	2701	2706	2745	2812	2844	2924	2987	3173	3256	3281	3338	3346
+I alt	Polling area - 2. Syd	600	678	1016	1147	1264	1411	1611	1764	1923	1974	2111	2282	2631	2942	3344
+I alt	Polling area - 2. Øst	1811	2002	2010	2029	2080	2139	2199	2244	2320	2389	2523	2659	2704	2691	2724
+I alt	Polling area - 2. Vest	1749	2143	2321	2423	2505	2605	2636	2771	2932	3214	3496	3639	3702	3795	3930
+I alt	Polling area - 3. Indre By	2544	2569	2649	2677	2668	2650	2729	2732	2847	2919	2971	3032	3031	3062	3092
+I alt	Polling area - 3. Nord	1890	1985	2051	2038	2068	2105	2118	2186	2189	2214	2284	2338	2281	2314	2366
+I alt	Polling area - 3. Syd	1902	2009	2048	2092	2107	2117	2171	2195	2318	2471	2677	2811	2839	2897	2916
+I alt	Polling area - 3. Øst	3119	3362	3380	3341	3365	3383	3430	3454	3504	3586	3740	3755	3775	3834	3902
+I alt	Polling area - 4. Sundbyøster	1685	1847	1960	2023	2056	2062	2082	2095	2183	2282	2356	2510	2705	2918	3024
+I alt	Polling area - 4. Nord	2672	2800	2909	2887	2905	2935	2878	2882	3018	3084	3162	3310	3398	3480	3524
+I alt	Polling area - 4. Syd	2120	2173	2264	2293	2259	2284	2278	2387	2456	2453	2514	2651	2697	2714	2747
+I alt	Polling area - 4. Øst	2460	2496	2484	2534	2604	2656	2689	2754	2870	3153	3322	3465	3546	3571	3590
+I alt	Polling area - 5. Nørrebro	945	1010	1069	1052	1074	1037	1022	1053	1088	1166	1214	1282	1364	1346	1368
+I alt	Polling area - 5. Nord	1546	1574	1616	1571	1504	1499	1504	1461	1504	1600	1644	1756	1880	1947	1987
+I alt	Polling area - 5. Nørrebrohallen	1815	1816	1831	1805	1824	1731	1714	1752	1845	1936	2028	2183	2348	2369	2429
+I alt	Polling area - 5. Syd	1133	1191	1229	1181	1168	1197	1199	1206	1254	1278	1334	1387	1410	1424	1401
+I alt	Polling area - 5. Øst	1119	1173	1248	1205	1210	1196	1193	1204	1249	1375	1425	1456	1488	1488	1472
+I alt	Polling area - 5. Vest	1405	1495	1487	1431	1405	1400	1372	1367	1391	1449	1506	1594	1622	1645	1731
+I alt	Polling area - 5. Nordvest	1586	1660	1668	1623	1539	1552	1551	1560	1597	1643	1726	1840	2019	2073	2083
+I alt	Polling area - 6. Bispebjerg	1730	1849	2007	2000	2045	2053	2069	2083	2151	2190	2218	2380	2481	2687	2651
+I alt	Polling area - 6. Vest	1335	1354	1421	1410	1391	1398	1414	1455	1566	1623	1710	1820	1816	1859	1885
+I alt	Polling area - 6. Nord	1829	1905	1971	2006	2020	2108	2171	2176	2265	2304	2367	2481	2547	2553	2595
+I alt	Polling area - 6. Øst	1117	1151	1145	1170	1196	1216	1235	1268	1251	1295	1344	1378	1427	1408	1404
+I alt	Polling area - 6. Syd	1612	1647	1741	1696	1778	1753	1774	1806	1739	1861	1919	1978	2008	2126	2258
+I alt	Polling area - 7. Brønshøj	1286	1335	1362	1377	1430	1450	1450	1465	1464	1484	1537	1569	1587	1578	1636
+I alt	Polling area - 7. Nord	855	922	981	976	972	978	991	1031	1059	1140	1200	1255	1300	1375	1374
+I alt	Polling area - 7. Syd	2073	2111	2133	2137	2125	2131	2160	2270	2287	2425	2509	2524	2574	2582	2586
+I alt	Polling area - 7. Øst	2568	2709	2743	2756	2692	2741	2777	2791	2808	2933	2994	3060	3068	3133	3253
+I alt	Polling area - 7. Vest	1924	1942	1939	2013	2026	2053	2131	2210	2265	2277	2398	2509	2567	2634	2718
+I alt	Polling area - 7. Nordvest	2897	2943	3004	3040	3056	3129	3178	3245	3331	3406	3522	3639	3687	3743	3751
+I alt	Polling area - 7. Katrinedal	1199	1218	1276	1267	1256	1310	1298	1301	1373	1356	1415	1464	1489	1558	1535
+I alt	Polling area - 7. Kirkebjerg	1952	1981	2019	2018	2038	2076	2094	2107	2145	2213	2257	2288	2283	2311	2309
+I alt	Polling area - 7. Vanløse	2772	2922	2920	2949	2971	3010	3088	3081	3126	3231	3374	3487	3533	3554	3599
+I alt	Polling area - 8. Valby	2470	2591	2568	2553	2616	2624	2630	2676	2728	2852	2894	2975	3001	2993	3030
+I alt	Polling area - 8. Nord	2006	2091	2135	2139	2171	2222	2253	2317	2374	2447	2436	2535	2634	2683	2668
+I alt	Polling area - 8. Syd	1431	1477	1501	1513	1505	1537	1561	1634	1732	1757	1775	1895	2048	2319	2560
+I alt	Polling area - 8. Vest	1421	1494	1552	1534	1611	1585	1625	1649	1683	1758	1835	1874	1891	1949	1970
+I alt	Polling area - 8. Sydøst	935	970	982	993	985	1028	1050	1036	1055	1151	1213	1343	1399	1451	1494
+I alt	Polling area - 8. Midt	1134	1149	1307	1452	1483	1560	1607	1617	1742	1772	1880	1986	2118	2169	2180
+I alt	Polling area - 9. Vesterbro	1312	1383	1478	1448	1436	1437	1443	1427	1527	1612	1689	1703	1749	1784	1747
+I alt	Polling area - 9. Nord	1478	1596	1644	1637	1611	1635	1620	1677	1749	1753	1851	1949	1950	1966	1940
+I alt	Polling area - 9. Syd	1712	1785	1819	1861	1873	1894	1883	1932	2024	2040	2120	2171	2277	2325	2383
+I alt	Polling area - 9. Øst	979	1114	1185	1176	1180	1221	1184	1165	1229	1271	1309	1367	1370	1399	1457
+I alt	Polling area - 9. Vest	1109	1184	1189	1241	1230	1234	1255	1250	1264	1321	1348	1459	1553	1693	1764
+I alt	Polling area - 9. Midt	415	414	423	436	455	422	417	421	445	483	497	520	558	574	577
+I alt	Polling area - 9. Sydhavn	92	348	541	965	1191	1445	1495	1502	1596	1726	1827	2149	2556	2857	3209
+Petrol	Copenhagen total	86460	89641	90989	90185	89450	88744	87648	87405	88990	91148	93526	95955	98442	100590	102895
+Petrol	District - Indre By	8675	9015	9016	8831	8758	8572	8489	8429	8549	8671	8921	9003	8991	9122	9276
+Petrol	District - Østerbro	12302	12666	12870	12782	12592	12354	12184	12022	12162	12337	12631	12901	13238	13344	13530
+Petrol	District - Nørrebro	8930	9197	9276	8869	8616	8382	8166	8061	8244	8589	8783	9112	9558	9677	9825
+Petrol	District - Vesterbro/Kongens Enghave	6634	7248	7499	7733	7753	7846	7636	7600	7868	8105	8381	8767	9200	9606	9949
+Petrol	District - Valby	8867	9094	9166	9114	9121	9102	9002	9020	9228	9472	9643	9888	10234	10541	10810
+Petrol	District - Vanløse	8146	8289	8262	8097	8033	8006	7945	7937	7952	8110	8296	8313	8451	8548	8625
+Petrol	District - Brønshøj-Husum	8493	8633	8619	8557	8405	8413	8378	8391	8440	8519	8739	8871	8966	9083	9333
+Petrol	District - Bispebjerg	7241	7436	7661	7523	7551	7508	7455	7449	7596	7776	7844	8124	8221	8460	8627
+Petrol	District - Amager Øst	8395	8673	8782	8741	8637	8543	8360	8367	8531	8833	9010	9378	9644	9934	10144
+Petrol	District - Amager Vest	8601	9259	9714	9791	9875	9914	9903	10016	10292	10594	11162	11482	11831	12192	12695
+Petrol	District - Unlocated	176	131	124	147	109	104	130	113	128	142	116	116	108	83	81
+Petrol	Polling area - 1. Østerbro	2425	2541	2568	2575	2509	2478	2418	2355	2374	2436	2474	2480	2439	2472	2489
+Petrol	Polling area - 1. Øst	1113	1180	1271	1283	1272	1254	1280	1293	1316	1334	1441	1679	1787	1805	1856
+Petrol	Polling area - 1. Nord	1554	1588	1576	1581	1566	1497	1463	1468	1492	1546	1530	1575	1588	1609	1701
+Petrol	Polling area - 1. Syd	2589	2683	2746	2688	2659	2598	2574	2478	2442	2470	2438	2409	2479	2498	2498
+Petrol	Polling area - 1. Vest	2436	2453	2460	2426	2428	2403	2345	2348	2412	2408	2485	2477	2571	2611	2621
+Petrol	Polling area - 1. Nordvest	2185	2221	2249	2229	2158	2124	2104	2080	2126	2143	2263	2281	2374	2349	2365
+Petrol	Polling area - 2. Sundbyvester	2376	2478	2482	2473	2470	2415	2356	2385	2396	2437	2502	2523	2562	2589	2642
+Petrol	Polling area - 2. Nord	2330	2373	2449	2424	2391	2397	2393	2348	2393	2423	2567	2607	2601	2627	2628
+Petrol	Polling area - 2. Syd	556	614	906	1000	1066	1129	1239	1311	1386	1418	1500	1637	1886	2118	2454
+Petrol	Polling area - 2. Øst	1698	1849	1827	1810	1830	1852	1845	1863	1900	1923	1997	2091	2086	2087	2082
+Petrol	Polling area - 2. Vest	1641	1945	2050	2084	2118	2121	2070	2109	2217	2393	2596	2624	2696	2771	2889
+Petrol	Polling area - 3. Indre By	2369	2369	2382	2379	2330	2252	2281	2226	2308	2322	2328	2334	2320	2313	2336
+Petrol	Polling area - 3. Nord	1774	1840	1870	1813	1821	1787	1762	1773	1769	1772	1794	1817	1767	1804	1845
+Petrol	Polling area - 3. Syd	1789	1854	1845	1843	1824	1791	1773	1761	1820	1913	2037	2140	2167	2217	2218
+Petrol	Polling area - 3. Øst	2919	3083	3043	2943	2892	2846	2803	2782	2780	2806	2878	2828	2845	2871	2958
+Petrol	Polling area - 4. Sundbyøster	1593	1737	1799	1833	1813	1773	1740	1723	1772	1849	1900	2004	2132	2286	2423
+Petrol	Polling area - 4. Nord	2503	2606	2662	2595	2571	2523	2453	2415	2487	2521	2524	2625	2694	2757	2791
+Petrol	Polling area - 4. Syd	2005	2042	2092	2063	1994	1983	1937	1993	2002	1990	2016	2112	2144	2167	2185
+Petrol	Polling area - 4. Øst	2294	2288	2229	2250	2259	2264	2230	2236	2270	2473	2570	2637	2674	2724	2745
+Petrol	Polling area - 5. Nørrebro	876	934	995	959	965	911	887	899	921	971	1002	1052	1114	1097	1101
+Petrol	Polling area - 5. Nord	1446	1463	1490	1417	1339	1314	1295	1231	1247	1337	1366	1409	1488	1565	1603
+Petrol	Polling area - 5. Nørrebrohallen	1691	1690	1676	1613	1622	1521	1474	1505	1563	1621	1647	1747	1861	1846	1883
+Petrol	Polling area - 5. Syd	1061	1104	1122	1061	1032	1034	1028	1015	1029	1031	1057	1072	1088	1104	1078
+Petrol	Polling area - 5. Øst	1050	1088	1137	1094	1070	1032	1002	977	1014	1112	1125	1120	1140	1163	1155
+Petrol	Polling area - 5. Vest	1326	1393	1367	1294	1252	1238	1174	1154	1162	1180	1217	1266	1291	1277	1364
+Petrol	Polling area - 5. Nordvest	1480	1525	1489	1431	1336	1332	1306	1280	1308	1337	1369	1446	1576	1625	1641
+Petrol	Polling area - 6. Bispebjerg	1633	1736	1851	1806	1807	1789	1781	1787	1824	1834	1804	1882	1940	2098	2106
+Petrol	Polling area - 6. Vest	1272	1284	1334	1292	1245	1225	1209	1214	1316	1354	1381	1446	1425	1456	1463
+Petrol	Polling area - 6. Nord	1750	1798	1821	1820	1820	1854	1860	1828	1916	1950	1960	2047	2056	2044	2082
+Petrol	Polling area - 6. Øst	1062	1086	1066	1074	1080	1088	1071	1090	1078	1104	1123	1136	1174	1153	1156
+Petrol	Polling area - 6. Syd	1524	1532	1589	1531	1599	1552	1534	1530	1462	1534	1576	1613	1626	1709	1820
+Petrol	Polling area - 7. Brønshøj	1217	1243	1238	1237	1261	1267	1236	1224	1218	1208	1252	1256	1273	1262	1324
+Petrol	Polling area - 7. Nord	820	867	906	893	883	877	877	902	903	945	969	955	992	1014	1008
+Petrol	Polling area - 7. Syd	1966	1985	1966	1919	1896	1874	1865	1924	1909	1996	2017	2016	2057	2068	2072
+Petrol	Polling area - 7. Øst	2432	2539	2518	2493	2404	2385	2351	2344	2332	2392	2409	2422	2424	2464	2565
+Petrol	Polling area - 7. Vest	1829	1815	1795	1812	1781	1786	1814	1850	1857	1834	1921	1966	1989	2029	2127
+Petrol	Polling area - 7. Nordvest	2753	2746	2761	2714	2684	2692	2675	2665	2694	2723	2781	2860	2899	2948	2962
+Petrol	Polling area - 7. Katrinedal	1149	1148	1185	1148	1117	1145	1096	1095	1145	1123	1163	1168	1194	1253	1241
+Petrol	Polling area - 7. Kirkebjerg	1849	1860	1852	1810	1798	1797	1782	1742	1744	1789	1804	1771	1795	1791	1798
+Petrol	Polling area - 7. Vanløse	2624	2719	2660	2628	2614	2596	2627	2582	2590	2619	2719	2770	2794	2802	2861
+Petrol	Polling area - 8. Valby	2328	2390	2333	2279	2307	2260	2199	2202	2213	2289	2300	2325	2335	2335	2346
+Petrol	Polling area - 8. Nord	1886	1939	1965	1924	1898	1915	1878	1900	1908	1959	1963	2023	2102	2111	2107
+Petrol	Polling area - 8. Syd	1348	1379	1367	1351	1319	1325	1312	1356	1414	1392	1390	1471	1555	1748	1937
+Petrol	Polling area - 8. Vest	1354	1409	1415	1372	1429	1385	1393	1374	1391	1429	1478	1464	1481	1530	1531
+Petrol	Polling area - 8. Sydøst	879	905	905	894	881	906	901	870	886	963	1004	1057	1099	1128	1157
+Petrol	Polling area - 8. Midt	1072	1072	1181	1294	1287	1311	1319	1318	1416	1440	1508	1548	1662	1689	1732
+Petrol	Polling area - 9. Vesterbro	1229	1283	1333	1286	1253	1232	1205	1175	1253	1301	1356	1357	1368	1392	1364
+Petrol	Polling area - 9. Nord	1374	1466	1506	1476	1434	1415	1373	1401	1443	1449	1496	1546	1536	1579	1532
+Petrol	Polling area - 9. Syd	1603	1668	1663	1666	1648	1651	1610	1637	1693	1686	1742	1769	1814	1832	1865
+Petrol	Polling area - 9. Øst	907	1031	1084	1039	1024	1042	981	949	986	1012	1042	1060	1060	1074	1127
+Petrol	Polling area - 9. Vest	1053	1110	1085	1116	1078	1052	1045	1022	1018	1049	1058	1131	1193	1284	1322
+Petrol	Polling area - 9. Midt	391	389	381	385	399	378	359	373	378	400	416	422	442	455	453
+Petrol	Polling area - 9. Sydhavn	77	301	447	765	917	1076	1063	1043	1097	1208	1271	1482	1787	1990	2286
+Diesel	Copenhagen total	5241	6626	8613	10564	12241	14311	16682	18551	20218	21961	23753	26252	27404	28100	27835
+Diesel	District - Indre By	594	770	970	1158	1325	1559	1809	1992	2154	2320	2513	2674	2650	2692	2618
+Diesel	District - Østerbro	699	880	1172	1447	1700	1992	2358	2611	2777	3000	3220	3587	3712	3701	3600
+Diesel	District - Nørrebro	619	720	870	997	1108	1230	1389	1538	1681	1853	2078	2363	2549	2564	2558
+Diesel	District - Vesterbro/Kongens Enghave	463	576	780	1030	1222	1442	1661	1772	1962	2089	2217	2495	2743	2897	2954
+Diesel	District - Valby	530	678	879	1070	1249	1454	1722	1907	2084	2258	2361	2673	2807	2943	2949
+Diesel	District - Vanløse	439	553	733	932	1041	1198	1370	1527	1652	1829	1983	2176	2156	2199	2134
+Diesel	District - Brønshøj-Husum	448	607	762	945	1086	1258	1472	1644	1809	1988	2140	2373	2447	2534	2485
+Diesel	District - Bispebjerg	381	469	624	759	879	1020	1208	1337	1374	1491	1701	1892	2033	2139	2096
+Diesel	District - Amager Øst	541	642	833	994	1186	1392	1564	1748	1994	2130	2317	2526	2660	2677	2614
+Diesel	District - Amager Vest	519	724	976	1221	1430	1747	2110	2446	2708	2964	3197	3464	3604	3716	3768
+Diesel	District - Unlocated	8	7	14	11	15	19	19	29	23	39	26	29	43	38	59
+Diesel	Polling area - 1. Østerbro	141	186	232	290	353	394	453	504	550	594	614	696	690	696	680
+Diesel	Polling area - 1. Øst	80	105	158	201	247	281	315	341	369	383	435	543	598	592	582
+Diesel	Polling area - 1. Nord	76	112	140	161	188	235	284	299	335	357	365	418	430	427	440
+Diesel	Polling area - 1. Syd	140	160	221	273	347	404	492	542	571	629	696	726	740	743	686
+Diesel	Polling area - 1. Vest	129	170	227	280	290	343	408	465	498	560	584	632	676	648	622
+Diesel	Polling area - 1. Nordvest	133	147	194	242	275	335	406	460	454	477	526	572	578	595	590
+Diesel	Polling area - 2. Sundbyvester	122	149	201	243	282	348	400	457	508	564	603	650	628	656	668
+Diesel	Polling area - 2. Nord	133	162	213	277	315	348	419	495	531	564	605	646	676	702	703
+Diesel	Polling area - 2. Syd	44	63	109	146	197	281	372	453	537	554	599	631	729	800	838
+Diesel	Polling area - 2. Øst	112	152	182	216	249	286	353	380	419	465	516	560	607	585	609
+Diesel	Polling area - 2. Vest	108	198	271	339	387	484	566	661	713	817	874	977	964	973	950
+Diesel	Polling area - 3. Indre By	174	199	264	298	338	398	448	506	538	591	614	669	682	708	698
+Diesel	Polling area - 3. Nord	116	145	181	225	247	318	356	412	419	437	463	492	480	470	469
+Diesel	Polling area - 3. Syd	112	154	202	248	282	325	398	433	496	555	628	652	652	657	651
+Diesel	Polling area - 3. Øst	200	279	337	398	473	537	626	670	724	776	834	890	879	895	859
+Diesel	Polling area - 4. Sundbyøster	92	110	161	190	243	289	342	372	411	432	451	499	566	618	577
+Diesel	Polling area - 4. Nord	169	194	247	291	334	412	424	466	531	561	635	682	698	714	712
+Diesel	Polling area - 4. Syd	115	131	172	230	265	300	340	393	453	461	492	532	545	529	539
+Diesel	Polling area - 4. Øst	165	207	253	283	344	391	458	517	599	676	739	813	851	816	786
+Diesel	Polling area - 5. Nørrebro	69	76	74	93	109	126	135	153	167	195	211	226	248	244	257
+Diesel	Polling area - 5. Nord	100	111	125	154	165	185	209	230	257	263	277	345	390	379	382
+Diesel	Polling area - 5. Nørrebrohallen	124	126	155	191	202	210	240	247	282	315	380	432	485	515	530
+Diesel	Polling area - 5. Syd	72	87	107	120	136	163	171	191	224	245	274	311	317	310	307
+Diesel	Polling area - 5. Øst	69	85	111	110	140	164	191	225	234	262	296	332	342	315	296
+Diesel	Polling area - 5. Vest	79	101	119	137	153	162	198	213	229	269	286	325	327	361	357
+Diesel	Polling area - 5. Nordvest	106	134	179	192	203	220	245	279	288	304	354	392	440	440	429
+Diesel	Polling area - 6. Bispebjerg	97	113	156	194	238	264	288	296	327	355	411	496	538	584	535
+Diesel	Polling area - 6. Vest	63	70	87	118	146	173	205	241	250	269	328	371	387	399	411
+Diesel	Polling area - 6. Nord	78	106	150	186	200	254	311	347	349	353	406	429	484	497	486
+Diesel	Polling area - 6. Øst	55	65	79	96	116	128	164	177	171	187	215	233	245	247	235
+Diesel	Polling area - 6. Syd	88	115	152	165	179	201	240	276	277	327	341	363	379	412	429
+Diesel	Polling area - 7. Brønshøj	69	92	124	140	169	183	214	241	246	273	280	307	307	305	294
+Diesel	Polling area - 7. Nord	35	55	75	83	89	101	114	129	156	195	231	300	308	361	366
+Diesel	Polling area - 7. Syd	107	126	167	217	228	256	294	345	377	427	489	504	513	509	490
+Diesel	Polling area - 7. Øst	136	169	224	262	288	356	426	447	476	539	580	630	638	661	671
+Diesel	Polling area - 7. Vest	95	127	144	201	245	267	317	360	408	440	468	532	565	584	563
+Diesel	Polling area - 7. Nordvest	144	197	243	326	372	436	502	579	634	678	730	764	772	774	753
+Diesel	Polling area - 7. Katrinedal	50	70	91	119	139	165	202	206	228	233	250	294	292	298	282
+Diesel	Polling area - 7. Kirkebjerg	103	121	167	208	240	279	312	365	400	422	448	511	482	504	481
+Diesel	Polling area - 7. Vanløse	148	203	260	321	357	413	461	499	536	610	647	707	726	737	719
+Diesel	Polling area - 8. Valby	142	201	235	274	308	364	431	474	515	560	584	634	650	635	639
+Diesel	Polling area - 8. Nord	120	152	170	215	273	307	374	415	464	486	467	499	521	550	538
+Diesel	Polling area - 8. Syd	83	98	134	162	186	212	249	278	318	363	379	417	484	558	592
+Diesel	Polling area - 8. Vest	67	85	137	162	182	200	231	275	292	329	356	408	408	413	424
+Diesel	Polling area - 8. Sydøst	56	65	77	99	104	122	149	166	169	188	206	280	293	316	326
+Diesel	Polling area - 8. Midt	62	77	126	158	196	249	288	299	326	332	369	435	451	471	430
+Diesel	Polling area - 9. Vesterbro	83	100	145	162	183	205	238	252	274	308	328	341	378	386	365
+Diesel	Polling area - 9. Nord	104	130	138	161	177	220	247	276	306	304	349	395	403	377	386
+Diesel	Polling area - 9. Syd	109	117	156	195	225	243	273	295	331	354	377	401	460	487	505
+Diesel	Polling area - 9. Øst	72	83	101	136	155	179	203	216	242	258	259	298	298	306	304
+Diesel	Polling area - 9. Vest	56	74	104	125	152	182	210	228	246	270	286	323	352	399	411
+Diesel	Polling area - 9. Midt	24	25	42	51	56	44	58	48	67	83	81	97	116	119	118
+Diesel	Polling area - 9. Sydhavn	15	47	94	200	274	369	432	457	496	512	537	640	736	823	865
+Electricity	Copenhagen total	5	9	10	11	5	6	8	23	34	96	385	442	493	570	987
+Electricity	District - Indre By	..	..	4	..	..	..	0	3	4	18	96	98	111	123	177
+Electricity	District - Østerbro	0	..	0	0	0	0	..	5	11	16	61	69	79	87	153
+Electricity	District - Nørrebro	0	..	..	..	0	0	0	4	..	4	15	21	21	31	64
+Electricity	District - Vesterbro/Kongens Enghave	0	0	0	..	..	0	0	..	4	12	43	46	55	59	115
+Electricity	District - Valby	0	0	0	0	0	0	..	..	..	7	29	40	41	52	93
+Electricity	District - Vanløse	0	0	0	..	..	..	..	..	..	6	19	22	25	27	50
+Electricity	District - Brønshøj-Husum	0	..	..	..	0	0	0	0	..	12	28	34	36	43	58
+Electricity	District - Bispebjerg	..	..	0	0	0	0	0	..	..	4	12	19	23	24	47
+Electricity	District - Amager Øst	..	..	..	..	..	..	..	..	..	9	27	31	38	45	86
+Electricity	District - Amager Vest	..	..	..	3	..	..	..	3	3	8	55	62	64	79	144
+Electricity	District - Unlocated	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Electricity	Polling area - 1. Østerbro	0	0	0	0	0	0	0	0	0	..	10	7	8	8	18
+Electricity	Polling area - 1. Øst	0	0	0	0	0	0	..	..	3	4	13	14	24	27	43
+Electricity	Polling area - 1. Nord	0	0	0	0	0	0	0	0	..	4	8	11	11	15	23
+Electricity	Polling area - 1. Syd	0	0	0	0	0	0	0	..	3	4	15	22	20	20	37
+Electricity	Polling area - 1. Vest	0	0	0	0	0	0	0	..	..	..	9	8	7	10	19
+Electricity	Polling area - 1. Nordvest	0	..	0	0	0	0	0	..	..	..	6	7	9	7	13
+Electricity	Polling area - 2. Sundbyvester	0	0	0	0	0	0	0	0	0	..	6	8	6	8	16
+Electricity	Polling area - 2. Nord	0	0	0	0	0	0	0	..	0	0	..	..	..	4	9
+Electricity	Polling area - 2. Syd	0	0	0	0	0	0	0	0	0	..	12	13	14	17	35
+Electricity	Polling area - 2. Øst	..	..	..	3	..	..	..	..	..	..	10	8	10	13	22
+Electricity	Polling area - 2. Vest	0	0	0	0	0	0	0	..	..	4	26	32	32	37	62
+Electricity	Polling area - 3. Indre By	..	..	3	0	0	0	0	0	..	6	29	24	24	31	45
+Electricity	Polling area - 3. Nord	0	0	0	0	0	0	0	..	..	5	27	27	30	28	36
+Electricity	Polling area - 3. Syd	..	..	..	..	..	..	0	..	..	3	12	16	16	17	31
+Electricity	Polling area - 3. Øst	0	0	0	0	0	0	0	..	0	4	28	31	41	47	65
+Electricity	Polling area - 4. Sundbyøster	0	0	0	0	0	0	0	0	0	..	5	7	6	6	15
+Electricity	Polling area - 4. Nord	0	0	0	..	0	0	0	0	0	..	3	3	5	4	13
+Electricity	Polling area - 4. Syd	0	0	0	0	0	..	..	..	..	..	6	7	8	13	17
+Electricity	Polling area - 4. Øst	..	..	..	..	..	..	..	..	..	4	13	14	19	22	41
+Electricity	Polling area - 5. Nørrebro	0	0	0	0	0	0	0	..	0	0	..	4	..	3	7
+Electricity	Polling area - 5. Nord	0	0	..	0	0	0	0	0	0	0	..	..	..	..	0
+Electricity	Polling area - 5. Nørrebrohallen	0	0	0	..	0	0	0	0	0	0	..	4	..	5	11
+Electricity	Polling area - 5. Syd	0	0	0	0	0	0	0	0	0	..	..	4	5	6	13
+Electricity	Polling area - 5. Øst	0	0	0	..	0	0	0	..	..	..	4	4	6	6	13
+Electricity	Polling area - 5. Vest	0	..	..	0	0	0	0	0	0	0	3	3	4	6	9
+Electricity	Polling area - 5. Nordvest	0	0	0	0	0	0	0	..	..	..	3	..	..	3	11
+Electricity	Polling area - 6. Bispebjerg	0	0	0	0	0	0	0	0	0	0	3	..	3	3	6
+Electricity	Polling area - 6. Vest	0	0	0	0	0	0	0	0	0	0	..	3	4	4	8
+Electricity	Polling area - 6. Nord	..	..	0	0	0	0	0	0	0	..	..	5	7	8	16
+Electricity	Polling area - 6. Øst	0	0	0	0	0	0	0	..	..	3	5	8	8	7	11
+Electricity	Polling area - 6. Syd	0	0	0	0	0	0	0	0	0	0	..	..	..	..	6
+Electricity	Polling area - 7. Brønshøj	0	0	0	0	0	0	0	0	0	3	5	6	6	8	11
+Electricity	Polling area - 7. Nord	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Electricity	Polling area - 7. Syd	0	0	0	..	..	..	..	..	..	..	3	3	4	3	13
+Electricity	Polling area - 7. Øst	0	..	..	..	0	0	0	0	0	..	5	8	6	6	10
+Electricity	Polling area - 7. Vest	0	0	0	0	0	0	0	0	0	3	9	9	12	16	20
+Electricity	Polling area - 7. Nordvest	0	0	0	0	0	0	0	0	..	4	10	13	13	14	18
+Electricity	Polling area - 7. Katrinedal	0	0	0	0	0	0	0	0	0	0	..	..	3	3	6
+Electricity	Polling area - 7. Kirkebjerg	0	0	0	0	0	0	0	0	..	..	5	6	5	10	18
+Electricity	Polling area - 7. Vanløse	0	0	0	0	0	..	0	0	0	..	8	9	12	10	12
+Electricity	Polling area - 8. Valby	0	0	0	0	0	0	0	0	0	3	10	12	12	14	29
+Electricity	Polling area - 8. Nord	0	0	0	0	0	0	..	..	..	..	6	11	10	14	14
+Electricity	Polling area - 8. Syd	0	0	0	0	0	0	0	0	0	..	6	6	7	8	21
+Electricity	Polling area - 8. Vest	0	0	0	0	0	0	..	0	0	0	..	..	..	4	10
+Electricity	Polling area - 8. Sydøst	0	0	0	0	0	0	0	0	0	0	3	6	6	7	9
+Electricity	Polling area - 8. Midt	0	0	0	0	0	0	0	0	0	0	3	3	4	5	10
+Electricity	Polling area - 9. Vesterbro	0	0	0	0	0	0	0	0	0	3	5	5	3	3	10
+Electricity	Polling area - 9. Nord	0	0	0	0	0	0	0	0	0	0	6	7	8	5	11
+Electricity	Polling area - 9. Syd	0	0	0	0	0	0	0	0	0	0	..	..	3	3	6
+Electricity	Polling area - 9. Øst	0	0	0	..	..	0	0	0	..	..	8	7	8	12	21
+Electricity	Polling area - 9. Vest	0	0	0	0	0	0	0	0	0	..	4	4	6	5	20
+Electricity	Polling area - 9. Midt	0	0	0	0	0	0	0	0	0	0	0	..	0	0	5
+Electricity	Polling area - 9. Sydhavn	0	0	0	0	0	0	0	..	3	6	19	21	27	31	42
+Hybrid	Copenhagen total	0	0	0	0	0	0	0	0	0	0	0	61	101	284	473
+Hybrid	District - Indre By	0	0	0	0	0	0	0	0	0	0	0	16	23	49	65
+Hybrid	District - Østerbro	0	0	0	0	0	0	0	0	0	0	0	8	21	41	64
+Hybrid	District - Nørrebro	0	0	0	0	0	0	0	0	0	0	0	..	3	20	23
+Hybrid	District - Vesterbro/Kongens Enghave	0	0	0	0	0	0	0	0	0	0	0	10	15	35	59
+Hybrid	District - Valby	0	0	0	0	0	0	0	0	0	0	0	7	9	28	50
+Hybrid	District - Vanløse	0	0	0	0	0	0	0	0	0	0	0	..	..	19	39
+Hybrid	District - Brønshøj-Husum	0	0	0	0	0	0	0	0	0	0	0	3	4	15	37
+Hybrid	District - Bispebjerg	0	0	0	0	0	0	0	0	0	0	0	..	..	10	23
+Hybrid	District - Amager Øst	0	0	0	0	0	0	0	0	0	0	0	..	4	27	41
+Hybrid	District - Amager Vest	0	0	0	0	0	0	0	0	0	0	0	11	18	40	72
+Hybrid	District - Unlocated	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hybrid	Polling area - 1. Østerbro	0	0	0	0	0	0	0	0	0	0	0	..	6	9	13
+Hybrid	Polling area - 1. Øst	0	0	0	0	0	0	0	0	0	0	0	..	..	10	13
+Hybrid	Polling area - 1. Nord	0	0	0	0	0	0	0	0	0	0	0	..	5	7	12
+Hybrid	Polling area - 1. Syd	0	0	0	0	0	0	0	0	0	0	0	4	4	6	9
+Hybrid	Polling area - 1. Vest	0	0	0	0	0	0	0	0	0	0	0	0	..	4	8
+Hybrid	Polling area - 1. Nordvest	0	0	0	0	0	0	0	0	0	0	0	0	..	5	9
+Hybrid	Polling area - 2. Sundbyvester	0	0	0	0	0	0	0	0	0	0	0	..	3	8	9
+Hybrid	Polling area - 2. Nord	0	0	0	0	0	0	0	0	0	0	0	..	..	5	6
+Hybrid	Polling area - 2. Syd	0	0	0	0	0	0	0	0	0	0	0	..	..	7	17
+Hybrid	Polling area - 2. Øst	0	0	0	0	0	0	0	0	0	0	0	0	..	6	11
+Hybrid	Polling area - 2. Vest	0	0	0	0	0	0	0	0	0	0	0	6	10	14	29
+Hybrid	Polling area - 3. Indre By	0	0	0	0	0	0	0	0	0	0	0	5	5	10	13
+Hybrid	Polling area - 3. Nord	0	0	0	0	0	0	0	0	0	0	0	..	4	12	16
+Hybrid	Polling area - 3. Syd	0	0	0	0	0	0	0	0	0	0	0	3	4	6	16
+Hybrid	Polling area - 3. Øst	0	0	0	0	0	0	0	0	0	0	0	6	10	21	20
+Hybrid	Polling area - 4. Sundbyøster	0	0	0	0	0	0	0	0	0	0	0	0	..	8	9
+Hybrid	Polling area - 4. Nord	0	0	0	0	0	0	0	0	0	0	0	0	..	5	8
+Hybrid	Polling area - 4. Syd	0	0	0	0	0	0	0	0	0	0	0	0	0	5	6
+Hybrid	Polling area - 4. Øst	0	0	0	0	0	0	0	0	0	0	0	..	..	9	18
+Hybrid	Polling area - 5. Nørrebro	0	0	0	0	0	0	0	0	0	0	0	0	0	..	..
+Hybrid	Polling area - 5. Nord	0	0	0	0	0	0	0	0	0	0	0	..	..	..	..
+Hybrid	Polling area - 5. Nørrebrohallen	0	0	0	0	0	0	0	0	0	0	0	0	0	3	5
+Hybrid	Polling area - 5. Syd	0	0	0	0	0	0	0	0	0	0	0	0	0	4	3
+Hybrid	Polling area - 5. Øst	0	0	0	0	0	0	0	0	0	0	0	0	0	4	8
+Hybrid	Polling area - 5. Vest	0	0	0	0	0	0	0	0	0	0	0	0	0	..	..
+Hybrid	Polling area - 5. Nordvest	0	0	0	0	0	0	0	0	0	0	0	..	..	5	..
+Hybrid	Polling area - 6. Bispebjerg	0	0	0	0	0	0	0	0	0	0	0	0	0	..	4
+Hybrid	Polling area - 6. Vest	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+Hybrid	Polling area - 6. Nord	0	0	0	0	0	0	0	0	0	0	0	0	0	4	11
+Hybrid	Polling area - 6. Øst	0	0	0	0	0	0	0	0	0	0	0	0	0	..	..
+Hybrid	Polling area - 6. Syd	0	0	0	0	0	0	0	0	0	0	0	..	..	3	3
+Hybrid	Polling area - 7. Brønshøj	0	0	0	0	0	0	0	0	0	0	0	0	..	3	7
+Hybrid	Polling area - 7. Nord	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hybrid	Polling area - 7. Syd	0	0	0	0	0	0	0	0	0	0	0	..	0	..	11
+Hybrid	Polling area - 7. Øst	0	0	0	0	0	0	0	0	0	0	0	0	0	..	7
+Hybrid	Polling area - 7. Vest	0	0	0	0	0	0	0	0	0	0	0	..	..	5	8
+Hybrid	Polling area - 7. Nordvest	0	0	0	0	0	0	0	0	0	0	0	..	..	7	18
+Hybrid	Polling area - 7. Katrinedal	0	0	0	0	0	0	0	0	0	0	0	0	0	4	6
+Hybrid	Polling area - 7. Kirkebjerg	0	0	0	0	0	0	0	0	0	0	0	0	..	6	12
+Hybrid	Polling area - 7. Vanløse	0	0	0	0	0	0	0	0	0	0	0	..	..	5	7
+Hybrid	Polling area - 8. Valby	0	0	0	0	0	0	0	0	0	0	0	4	4	9	16
+Hybrid	Polling area - 8. Nord	0	0	0	0	0	0	0	0	0	0	0	..	..	8	9
+Hybrid	Polling area - 8. Syd	0	0	0	0	0	0	0	0	0	0	0	..	..	5	10
+Hybrid	Polling area - 8. Vest	0	0	0	0	0	0	0	0	0	0	0	0	0	..	5
+Hybrid	Polling area - 8. Sydøst	0	0	0	0	0	0	0	0	0	0	0	0	..	0	..
+Hybrid	Polling area - 8. Midt	0	0	0	0	0	0	0	0	0	0	0	0	..	4	8
+Hybrid	Polling area - 9. Vesterbro	0	0	0	0	0	0	0	0	0	0	0	0	0	3	8
+Hybrid	Polling area - 9. Nord	0	0	0	0	0	0	0	0	0	0	0	..	3	5	11
+Hybrid	Polling area - 9. Syd	0	0	0	0	0	0	0	0	0	0	0	0	0	3	7
+Hybrid	Polling area - 9. Øst	0	0	0	0	0	0	0	0	0	0	0	..	4	6	5
+Hybrid	Polling area - 9. Vest	0	0	0	0	0	0	0	0	0	0	0	..	..	5	11
+Hybrid	Polling area - 9. Midt	0	0	0	0	0	0	0	0	0	0	0	0	0	0	..
+Hybrid	Polling area - 9. Sydhavn	0	0	0	0	0	0	0	0	0	0	0	6	6	13	16
+Other and unknown	Copenhagen total	0	..	..	..	5	5	5	5	3	4	3	..	..	..	..
+Other and unknown	District - Indre By	0	0	0	0	0	0	..	..	0	0	0	0	0	0	0
+Other and unknown	District - Østerbro	0	0	0	..	3	3	..	..	..	0	0	0	0	0	0
+Other and unknown	District - Nørrebro	0	..	0	0	0	0	0	0	..	..	..	0	0	0	..
+Other and unknown	District - Vesterbro/Kongens Enghave	0	0	0	0	0	0	0	0	0	0	0	0	0	..	0
+Other and unknown	District - Valby	0	0	0	0	..	0	0	0	0	0	0	0	0	0	0
+Other and unknown	District - Vanløse	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	District - Brønshøj-Husum	0	0	0	0	0	..	..	..	..	..	..	..	..	0	0
+Other and unknown	District - Bispebjerg	0	0	0	0	0	0	0	..	0	..	..	..	0	0	0
+Other and unknown	District - Amager Øst	0	0	0	0	0	0	..	..	0	0	0	0	0	0	0
+Other and unknown	District - Amager Vest	0	..	..	..	..	..	0	0	0	0	0	0	0	0	0
+Other and unknown	District - Unlocated	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 1. Østerbro	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 1. Øst	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 1. Nord	0	0	0	..	..	..	..	..	..	0	0	0	0	0	0
+Other and unknown	Polling area - 1. Syd	0	0	0	0	..	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 1. Vest	0	0	0	0	..	..	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 1. Nordvest	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 2. Sundbyvester	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 2. Nord	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 2. Syd	0	..	..	..	..	..	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 2. Øst	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 2. Vest	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 3. Indre By	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 3. Nord	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 3. Syd	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 3. Øst	0	0	0	0	0	0	..	..	0	0	0	0	0	0	0
+Other and unknown	Polling area - 4. Sundbyøster	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 4. Nord	0	0	0	0	0	0	..	..	0	0	0	0	0	0	0
+Other and unknown	Polling area - 4. Syd	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 4. Øst	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 5. Nørrebro	0	0	0	0	0	0	0	0	0	0	0	0	0	0	..
+Other and unknown	Polling area - 5. Nord	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 5. Nørrebrohallen	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 5. Syd	0	0	0	0	0	0	0	0	..	..	..	0	0	0	0
+Other and unknown	Polling area - 5. Øst	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 5. Vest	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 5. Nordvest	0	..	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 6. Bispebjerg	0	0	0	0	0	0	0	0	0	..	0	0	0	0	0
+Other and unknown	Polling area - 6. Vest	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 6. Nord	0	0	0	0	0	0	0	..	0	0	0	0	0	0	0
+Other and unknown	Polling area - 6. Øst	0	0	0	0	0	0	0	0	0	..	..	..	0	0	0
+Other and unknown	Polling area - 6. Syd	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 7. Brønshøj	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 7. Nord	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 7. Syd	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 7. Øst	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 7. Vest	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 7. Nordvest	0	0	0	0	0	..	..	..	..	..	..	..	..	0	0
+Other and unknown	Polling area - 7. Katrinedal	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 7. Kirkebjerg	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 7. Vanløse	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 8. Valby	0	0	0	0	..	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 8. Nord	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 8. Syd	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 8. Vest	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 8. Sydøst	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 8. Midt	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 9. Vesterbro	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 9. Nord	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 9. Syd	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 9. Øst	0	0	0	0	0	0	0	0	0	0	0	0	0	..	0
+Other and unknown	Polling area - 9. Vest	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 9. Midt	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Other and unknown	Polling area - 9. Sydhavn	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
