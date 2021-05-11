@@ -1,0 +1,103 @@
+År;Måned;Pejlemærke;Indikator;Status2013;Status2014;Status2015;Status2016;Status2017;Mål2017
+2016;5;1. Flere udsatte københavnere har en bolig;A. 1.000 udsatte københavnere får anvist en bolig i 2017;859;828;714;;;1.000
+2016;5;1. Flere udsatte københavnere har en bolig;B. Der sker 80 færre udsættelser i 2017;538;474;361;;;458
+2016;5;1. Flere udsatte københavnere har en bolig;C. Flere københavnere, der får anvist en bolig, fastholder deres bolig;95,9%;97,1%;96,9%;;;97,5%
+2016;5;1. Flere udsatte københavnere har en bolig;D. Der er færre hjemløse københavnere i 2017;1.581;-;1.562;;;1.255
+2016;5;1. Flere udsatte københavnere har en bolig;E. Der er færre unge hjemløse københavnere i 2017;225;-;202;;;190
+2016;5;1. Flere udsatte københavnere har en bolig;F. Højst 100 københavnere med handicap venter på et botilbud i 2017;129;124;144;;;100
+2016;5;1. Flere udsatte københavnere har en bolig;G. Højst 100 københavnere med sindslidelse venter på et botilbud i 2017;102;106;181;;;100
+2016;5;2. Flere københavnske skoleelever klarer sig bedre;A1. Flere anbragte unge deltager i 9. el. 10. klasse-prøven;74%;68%;Klar ultimo 2016;;;80%
+2016;5;2. Flere københavnske skoleelever klarer sig bedre;A2. Flere anbragte unge får en karakter på 2 eller derover i både dansk og matematik;58%;48%;Klar ultimo 2016;;;60%
+2016;5;2. Flere københavnske skoleelever klarer sig bedre;B1. Flere unge med forebyggende foranstaltninger deltager i 9. el. 10.-klasseprøven;73%;76%;Klar ultimo 2016;;;80%
+2016;5;2. Flere københavnske skoleelever klarer sig bedre;B2. Flere unge med forebyggende foranstaltninger får en karakter på 2 eller derover i både dansk og matematik;52%;51%;Klar ultimo 2016;;;60%
+2016;5;2. Flere københavnske skoleelever klarer sig bedre;C. Skolefravær blandt udsatte børn og unge, samt børn og unge med handicap falder;12,0%;12,9%;Klar ultimo 2016;;;6,1%
+2016;5;3. Færre københavnske unge begår kriminalitet;A. Andelen af københavnske unge, der sigtes for alvorlig eller personfarlig kriminalitet, er mindre end 1,1 % i 2017;1,1%;1,3%;Klar ultimo 2016;;;Mindre end 1,1%
+2016;5;3. Færre københavnske unge begår kriminalitet;B. Færre børn og unge med særlige behov sigtes for alvorlig kriminalitet;8,6%;8,8%;Klar ultimo 2016;;;7,5%
+2016;5;3. Færre københavnske unge begår kriminalitet;C. Ungdomskriminaliteten fortsætter samlet set med at falde i København (sigtede 10-23 årige);2,6%;2,7%;Klar ultimo 2016;;;2,4%
+2016;5;4. Flere københavnere med særlige behov kommer i uddannelse eller beskæftigelse;A. Flere københavnere med særlige behov bliver selvforsørgende via beskæftigelse eller uddannelse;-;6.869;8.003;;;9.147
+2016;5;4. Flere københavnere med særlige behov kommer i uddannelse eller beskæftigelse;B1. Flere københavnere med handicap deltager i Socialforvaltningens beskæftigelsestilbud;-;-;-;23,9%;;26%
+2016;5;4. Flere københavnere med særlige behov kommer i uddannelse eller beskæftigelse;B2. Flere københavnere med sindslidelse deltager i Socialforvaltningens beskæftigelsestilbud;-;-;14,9%;15,4%;;19,9%
+2016;5;5. Flere københavnere mestrer i højere grad deres eget liv;A. Flere borgere skal blive bedre til at mestre eget liv målt ved VUM;-;8,8%;13,6%;;;15%
+2016;5;5. Flere københavnere mestrer i højere grad deres eget liv;B. Flere modtagere af den sociale hjemmepleje skal klare sig selv;5%;7%;8%;;;10%
+2016;5;5. Flere københavnere mestrer i højere grad deres eget liv;C. Flere borgere på socialpsykiatriske botilbud flytter til mere selvstændige boformer;6%;6%;6%;;;7%
+2016;5;6. Flere københavnere stopper eller reducerer deres misbrug;A. Andelen af københavnere, som afslutter et behandlings-forløb for stofmisbrug som stoffri eller med reduktion i misbruget, øges;-;48,7%;47,2%;;;50%
+2016;5;6. Flere københavnere stopper eller reducerer deres misbrug;B. Andelen af københavnere, som afslutter et behandlings-forløb for misbrug af alkohol som afholdende eller med reduktion i misbruget, øges;-;-;Klar medio 2016;;;
+2016;5;6. Flere københavnere stopper eller reducerer deres misbrug;C. Flere unge reducerer eller stopper deres misbrug af hash;-;55,9%;57,6%;;;60%
+2016;5;6. Flere københavnere stopper eller reducerer deres misbrug;D. Flere borgere på socialpsykiatriske botilbud i Københavns kommune med en misbrugsproblematik kommer i misbrugsbehandling;-;-;25,2%;;;35%
+2016;5;6. Flere københavnere stopper eller reducerer deres misbrug;E. Færre københavnere oplever tilbagefald efter endt stofmisbrugsbehandling;-;-;19,4%;;;15%
+2016;5;6. Flere københavnere stopper eller reducerer deres misbrug;F. Færre københavnere oplever tilbagefald efter endt alkoholmisbrugsbehandling;-;-;Klar ultimo 2016;;;
+2016;5;7. Færre københavnere lever i fattigdom;A. Færre københavnere lever i fattigdom;10.747;Klar ultimo 2016;;;;Mindre end 10.598
+2016;5;7. Færre københavnere lever i fattigdom;B. Færre børn vokser op i fattige familier;1.602;Klar ultimo 2016;;;;Mindre end 1.743
+2016;5;8. Flere borgere med særlige behov oplever høj livskvalitet;A. Flere borgere med særlige behov oplever høj livskvalitet;-;-;49%;49%;;55%
+2016;5;8. Flere borgere med særlige behov oplever høj livskvalitet;B. Andelen af borgere med særlige behov, der er ensomme, falder;-;-;47%;45%;;40%
+2016;5;9. Flere borgere er tilfredse med samarbejdet med Socialforvaltningen;A. Mindst 80 % af borgere med særlige behov er tilfredse med samarbejdet med Socialforvaltningen i forbindelse med myndighedsarbejdet i 2017;-;-;72%;64%;;80%
+2016;5;9. Flere borgere er tilfredse med samarbejdet med Socialforvaltningen;B. Mindst 80 % af borgere med særlige behov er tilfredse med samarbejdet med Socialforvaltningen på tilbudsområdet i 2017;-;-;85%;83%;;80%
+2016;5;9. Flere borgere er tilfredse med samarbejdet med Socialforvaltningen;C. Mindst 90% af alle ansøgningssager behandles til tiden i SOF i 2017, hvilket svarer til en stigning på 41 procentpoint ift. 2014;-;49%;50%;;;90%
+2017;5;1. Flere udsatte københavnere har en bolig;A. 1.000 udsatte københavnere får anvist en bolig i 2017;859;826;739;715;;1.000
+2017;5;1. Flere udsatte københavnere har en bolig;B. Der sker 80 færre udsættelser i 2017;538;474;361;273;;458
+2017;5;1. Flere udsatte københavnere har en bolig;C. Flere københavnere, der får anvist en bolig, fastholder deres bolig;95,9%;97,1%;96,9%;97,6%;;97,5%
+2017;5;1. Flere udsatte københavnere har en bolig;D. Der er færre hjemløse københavnere i 2017;1.581;-;1.562;;;1.255
+2017;5;1. Flere udsatte københavnere har en bolig;E. Der er færre unge hjemløse københavnere i 2017;225;-;202;;;190
+2017;5;1. Flere udsatte københavnere har en bolig;F. Højst 100 københavnere med handicap venter på et botilbud i 2017;129;124;144;105;;100
+2017;5;1. Flere udsatte københavnere har en bolig;G. Højst 100 københavnere med sindslidelse venter på et botilbud i 2017;102;106;181;146;;100
+2017;5;2. Flere københavnske skoleelever klarer sig bedre;A1. Flere anbragte unge deltager i 9. el. 10. klasse-prøven;74%;68%;63%;;;80%
+2017;5;2. Flere københavnske skoleelever klarer sig bedre;A2. Flere anbragte unge får en karakter på 2 eller derover i både dansk og matematik;58%;48%;47%;;;60%
+2017;5;2. Flere københavnske skoleelever klarer sig bedre;B1. Flere unge med forebyggende foranstaltninger deltager i 9. el. 10.-klasseprøven;73%;76%;86%;;;80%
+2017;5;2. Flere københavnske skoleelever klarer sig bedre;B2. Flere unge med forebyggende foranstaltninger får en karakter på 2 eller derover i både dansk og matematik;52%;51%;63%;;;60%
+2017;5;2. Flere københavnske skoleelever klarer sig bedre;C. Skolefravær blandt udsatte børn og unge, samt børn og unge med handicap falder;12,0%;12,9%;14,0%;;;6,1%
+2017;5;3. Færre københavnske unge begår kriminalitet;A. Andelen af københavnske unge, der sigtes for alvorlig eller personfarlig kriminalitet, er mindre end 1,1 % i 2017;1,1%;1,3%;1,2%;;;1,0%
+2017;5;3. Færre københavnske unge begår kriminalitet;B. Færre børn og unge med særlige behov sigtes for alvorlig kriminalitet;8,6%;8,8%;6,6%;;;7,5%
+2017;5;3. Færre københavnske unge begår kriminalitet;C. Ungdomskriminaliteten fortsætter samlet set med at falde i København (sigtede 10-23 årige);2,6%;2,7%;2,3%;;;2,4%
+2017;5;4. Flere københavnere med særlige behov kommer i uddannelse eller beskæftigelse;A. Flere københavnere med særlige behov bliver selvforsørgende via beskæftigelse eller uddannelse;-;6.869;8.003;8.132;;9.147
+2017;5;4. Flere københavnere med særlige behov kommer i uddannelse eller beskæftigelse;B1. Flere københavnere med handicap deltager i Socialforvaltningens beskæftigelsestilbud;-;-;23,9%;25,1%;;26%
+2017;5;4. Flere københavnere med særlige behov kommer i uddannelse eller beskæftigelse;B2. Flere københavnere med sindslidelse deltager i Socialforvaltningens beskæftigelsestilbud;-;14,9%;15,4%;15,0%;;19,9%
+2017;5;5. Flere københavnere mestrer i højere grad deres eget liv;A. Flere borgere skal blive bedre til at mestre eget liv målt ved VUM (Udgået);-;-;-;-;-;-
+2017;5;5. Flere københavnere mestrer i højere grad deres eget liv;B. Flere modtagere af den sociale hjemmepleje skal klare sig selv;5%;7%;8%;14%;;10%
+2017;5;5. Flere københavnere mestrer i højere grad deres eget liv;C. Flere borgere på socialpsykiatriske botilbud flytter til mere selvstændige boformer ;6%;6%;6%;6%;;7%
+2017;5;6. Flere københavnere stopper eller reducerer deres misbrug;A. Andelen af københavnere, som afslutter et behandlings-forløb for stofmisbrug som stoffri eller med reduktion i misbruget, øges;-;48,7%;47,2%;43,7%;;50%
+2017;5;6. Flere københavnere stopper eller reducerer deres misbrug;B. Andelen af københavnere, som afslutter et behandlings-forløb for misbrug af alkohol som afholdende eller med reduktion i misbruget, øges;-;-;-;Data ultimo 2017;;
+2017;5;6. Flere københavnere stopper eller reducerer deres misbrug;C. Flere unge reducerer eller stopper deres misbrug af hash;-;55,9%;57,6%;51,5%;;60%
+2017;5;6. Flere københavnere stopper eller reducerer deres misbrug;D. Flere borgere på socialpsykiatriske botilbud i Københavns kommune med en misbrugsproblematik kommer i misbrugsbehandling;-;-;29,4%;31,4%;;35%
+2017;5;6. Flere københavnere stopper eller reducerer deres misbrug;E. Færre københavnere oplever tilbagefald efter endt stofmisbrugsbehandling;-;-;19,4%;15,0%;;15%
+2017;5;6. Flere københavnere stopper eller reducerer deres misbrug;F. Færre københavnere oplever tilbagefald efter endt alkoholmisbrugsbehandling;-;Ingen data;Ingen data;Data ultimo 2017;;
+2017;5;7. Færre københavnere lever i fattigdom;A. Færre københavnere lever i fattigdom;9.807;10.327;11.667;;;Mindre end 9.271
+2017;5;7. Færre københavnere lever i fattigdom;B. Færre børn vokser op i fattige familier;1.844;1.903;1.990;;;Mindre end 1.898
+2017;5;8. Flere borgere med særlige behov oplever høj livskvalitet;A. Flere københavnere med særlige behov er tilfredse med livet;-;-;49%;49%;50%;55%
+2017;5;8. Flere borgere med særlige behov oplever høj livskvalitet;B. Andelen af københavnere med særlige behov, der er ensomme, falder;-;-;47%;45%;44%;40%
+2017;5;9. Flere borgere er tilfredse med samarbejdet med Socialforvaltningen;A. Mindst 80 % af borgere med særlige behov er tilfredse med samarbejdet med Socialforvaltningen i forbindelse med myndighedsarbejdet i 2017;-;-;72%;64%;66%;80%
+2017;5;9. Flere borgere er tilfredse med samarbejdet med Socialforvaltningen;B. Mindst 80 % af borgere med særlige behov er tilfredse med samarbejdet med Socialforvaltningen på tilbudsområdet i 2017;-;-;85%;83%;84%;80%
+2017;5;9. Flere borgere er tilfredse med samarbejdet med Socialforvaltningen;C. Mindst 90% af alle ansøgningssager behandles til tiden i SOF i 2017, hvilket svarer til en stigning på 41 procentpoint ift. 2014;-;49%;50%;74%;;90%
+2017;10;1. Flere udsatte københavnere har en bolig;A. 1.000 udsatte københavnere får anvist en bolig i 2017;859;826;739;715;902;1.000
+2017;10;1. Flere udsatte københavnere har en bolig;B. Der sker 80 færre udsættelser i 2017;538;474;361;273;-;458
+2017;10;1. Flere udsatte københavnere har en bolig;C. Flere københavnere, der får anvist en bolig, fastholder deres bolig;95,9%;97,1%;96,9%;97,6%;98,4%;97,5%
+2017;10;1. Flere udsatte københavnere har en bolig;D. Der er færre hjemløse københavnere i 2017;1.581;-;1.562;;1.482;1.255
+2017;10;1. Flere udsatte københavnere har en bolig;E. Der er færre unge hjemløse københavnere i 2017;225;-;202;;184;190
+2017;10;1. Flere udsatte københavnere har en bolig;F. Højst 100 københavnere med handicap venter på et botilbud i 2017;129;124;144;105;100;100
+2017;10;1. Flere udsatte københavnere har en bolig;G. Højst 100 københavnere med sindslidelse venter på et botilbud i 2017;102;106;181;146;99;100
+2017;10;2. Flere københavnske skoleelever klarer sig bedre;A1. Flere anbragte unge deltager i 9. el. 10. klasse-prøven;74%;68%;63%;;-;80%
+2017;10;2. Flere københavnske skoleelever klarer sig bedre;A2. Flere anbragte unge får en karakter på 2 eller derover i både dansk og matematik;58%;48%;47%;;-;60%
+2017;10;2. Flere københavnske skoleelever klarer sig bedre;B1. Flere unge med forebyggende foranstaltninger deltager i 9. el. 10.-klasseprøven;73%;76%;86%;;-;80%
+2017;10;2. Flere københavnske skoleelever klarer sig bedre;B2. Flere unge med forebyggende foranstaltninger får en karakter på 2 eller derover i både dansk og matematik;52%;51%;63%;;-;60%
+2017;10;2. Flere københavnske skoleelever klarer sig bedre;C. Skolefravær blandt udsatte børn og unge, samt børn og unge med handicap falder;12,0%;12,9%;14,0%;;-;6,1%
+2017;10;3. Færre københavnske unge begår kriminalitet;A. Andelen af københavnske unge, der sigtes for alvorlig eller personfarlig kriminalitet, er mindre end 1,1 % i 2017;1,1%;1,3%;1,2%;;-;1,0%
+2017;10;3. Færre københavnske unge begår kriminalitet;B. Færre børn og unge med særlige behov sigtes for alvorlig kriminalitet;8,6%;8,8%;6,6%;;-;7,5%
+2017;10;3. Færre københavnske unge begår kriminalitet;C. Ungdomskriminaliteten fortsætter samlet set med at falde i København (sigtede 10-23 årige);2,6%;2,7%;2,3%;;-;2,4%
+2017;10;4. Flere københavnere med særlige behov kommer i uddannelse eller beskæftigelse;A. Flere københavnere med særlige behov bliver selvforsørgende via beskæftigelse eller uddannelse;-;6.869;8.003;8.132;7.790;9.147
+2017;10;4. Flere københavnere med særlige behov kommer i uddannelse eller beskæftigelse;B1. Flere københavnere med handicap deltager i Socialforvaltningens beskæftigelsestilbud;-;-;23,9%;25,1%;24,5%;26%
+2017;10;4. Flere københavnere med særlige behov kommer i uddannelse eller beskæftigelse;B2. Flere københavnere med sindslidelse deltager i Socialforvaltningens beskæftigelsestilbud;-;14,9%;15,4%;15,0%;-;19,9%
+2017;10;5. Flere københavnere mestrer i højere grad deres eget liv;A. Flere borgere skal blive bedre til at mestre eget liv målt ved VUM (Udgået);-;-;-;-;-;-
+2017;10;5. Flere københavnere mestrer i højere grad deres eget liv;B. Flere modtagere af den sociale hjemmepleje skal klare sig selv;5%;7%;8%;14%;-;10%
+2017;10;5. Flere københavnere mestrer i højere grad deres eget liv;C. Flere borgere på socialpsykiatriske botilbud flytter til mere selvstændige boformer ;6%;6%;6%;6%;6,5%;7%
+2017;10;6. Flere københavnere stopper eller reducerer deres misbrug;A. Andelen af københavnere, som afslutter et behandlings-forløb for stofmisbrug som stoffri eller med reduktion i misbruget, øges;-;48,7%;47,2%;43,7%;45,5%;50%
+2017;10;6. Flere københavnere stopper eller reducerer deres misbrug;B. Andelen af københavnere, som afslutter et behandlings-forløb for misbrug af alkohol som afholdende eller med reduktion i misbruget, øges;-;-;-;Data ultimo 2017;-;
+2017;10;6. Flere københavnere stopper eller reducerer deres misbrug;C. Flere unge reducerer eller stopper deres misbrug af hash;-;55,9%;57,6%;51,5%;63,8%;60%
+2017;10;6. Flere københavnere stopper eller reducerer deres misbrug;D. Flere borgere på socialpsykiatriske botilbud i Københavns kommune med en misbrugsproblematik kommer i misbrugsbehandling;-;-;29,4%;31,4%;26,2%;35%
+2017;10;6. Flere københavnere stopper eller reducerer deres misbrug;E. Færre københavnere oplever tilbagefald efter endt stofmisbrugsbehandling;-;-;19,4%;15,0%;17,8%;15%
+2017;10;6. Flere københavnere stopper eller reducerer deres misbrug;F. Færre københavnere oplever tilbagefald efter endt alkoholmisbrugsbehandling;-;Ingen data;Ingen data;Data ultimo 2017;-;
+2017;10;7. Færre københavnere lever i fattigdom;A. Færre københavnere lever i fattigdom;9.807;10.327;11.667;;-;Mindre end 9.271
+2017;10;7. Færre københavnere lever i fattigdom;B. Færre børn vokser op i fattige familier;1.844;1.903;1.990;;-;Mindre end 1.898
+2017;10;8. Flere borgere med særlige behov oplever høj livskvalitet;A. Flere københavnere med særlige behov er tilfredse med livet;-;-;49%;49%;50%;55%
+2017;10;8. Flere borgere med særlige behov oplever høj livskvalitet;B. Andelen af københavnere med særlige behov, der er ensomme, falder;-;-;47%;45%;44%;40%
+2017;10;9. Flere borgere er tilfredse med samarbejdet med Socialforvaltningen;A. Mindst 80 % af borgere med særlige behov er tilfredse med samarbejdet med Socialforvaltningen i forbindelse med myndighedsarbejdet i 2017;-;-;72%;64%;66%;80%
+2017;10;9. Flere borgere er tilfredse med samarbejdet med Socialforvaltningen;B. Mindst 80 % af borgere med særlige behov er tilfredse med samarbejdet med Socialforvaltningen på tilbudsområdet i 2017;-;-;85%;83%;84%;80%
+2017;10;9. Flere borgere er tilfredse med samarbejdet med Socialforvaltningen;C. Mindst 90% af alle ansøgningssager behandles til tiden i SOF i 2017, hvilket svarer til en stigning på 41 procentpoint ift. 2014;-;49%;50%;74%;79%;90%
